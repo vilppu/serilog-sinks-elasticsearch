@@ -7,7 +7,7 @@
     <description>The perfect way for .NET apps to write structured log events to Elasticsearch.</description>
     <language>en-US</language>
     <projectUrl>http://serilog.net</projectUrl>
-    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <license>http://www.apache.org/licenses/LICENSE-2.0</license>
     <iconUrl>http://serilog.net/images/serilog-sink-nuget.png</iconUrl>
     <repository type="git" url="https://github.com/serilog/serilog-sinks-elasticsearch" />
     <tags>serilog logging elasticsearch</tags>
